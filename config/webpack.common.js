@@ -16,7 +16,6 @@ module.exports = {
   devServer: {
     port: 3000,
   },
-  mode: 'development',
   module: {
     rules: [
       // Rules of how webpack will take our files, complie & bundle them for the browser
