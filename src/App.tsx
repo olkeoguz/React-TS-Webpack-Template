@@ -1,7 +1,12 @@
+import Image from "./assets/images/react.jpeg";
+import ChevronRight from "./assets/icons/ChevronRight.svg";
+
 const App = () => {
   return (
     <>
       <h1>React TypeScript Webpack Starter Template</h1>
+      <img src={Image} placeholder="react-logo" height="300" width="auto"/> 
+      <img src={ChevronRight} placeholder="right-arrow"  height="50" width="auto"/> 
     </>
   );
 };
