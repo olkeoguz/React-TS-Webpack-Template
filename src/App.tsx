@@ -1,5 +1,5 @@
-import Image from "./assets/images/react.jpeg";
-import ChevronRight from "./assets/icons/ChevronRight.svg";
+import Image from "../assets/images/react.jpeg";
+import ChevronRight from "../assets/icons/ChevronRight.svg";
 
 const App = () => {
   return (
